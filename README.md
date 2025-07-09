@@ -14,7 +14,7 @@ Telegram-бот для автоматического анализа тонал�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/call-analytics-bot.git
+git clone https://github.com/danchomas/call-analytics-bot.git
 cd call-analytics-bot
 ```
 2. Установите зависимости:
